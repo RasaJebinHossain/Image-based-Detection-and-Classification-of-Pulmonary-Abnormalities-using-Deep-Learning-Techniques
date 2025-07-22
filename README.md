@@ -1,4 +1,4 @@
-Image-based-Detection-and-Classification-of-Pulmonary-Abnormalities-using-Deep-Learning-Techniques
+# Image-based-Detection-and-Classification-of-Pulmonary-Abnormalities-using-Deep-Learning-Techniques
 
 This project uses deep learning to automatically detect lung diseases like COVID-19, pneumonia, and lung opacity from chest X-ray images.
 Models used include ResNet-152, EfficientNet-B7, VGG16, and VGG19, all fine-tuned via transfer learning.
